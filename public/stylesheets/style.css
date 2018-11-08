@@ -1,8 +1,18 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 14px "Lucida Calligraphy", Helvetica, Arial, sans-serif;
+    background-color: #AF5B49;
 }
 
 a {
-  color: #00B7FF;
+  color: #8BCF17;
+}
+
+.navbar{
+   background-color: black;
+}
+
+.row.page-header
+{
+     background-color: #70087C;
 }
